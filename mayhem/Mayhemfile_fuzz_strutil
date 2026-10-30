@@ -1,0 +1,8 @@
+project: savantenvs/nchat
+target: fuzz_strutil
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_strutil/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_strutil
+    libfuzzer: true

@@ -1,0 +1,1 @@
+*bold* _italic_ __under__ ~strike~ ||spoiler|| `code` [t](tg://user?id=1) \.

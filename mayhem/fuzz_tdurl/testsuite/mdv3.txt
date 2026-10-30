@@ -1,0 +1,1 @@
+**bold** __italic__ ~~strike~~ ||spoil|| `code` [a](http://b.c) > quote

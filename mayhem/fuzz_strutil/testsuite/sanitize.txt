@@ -1,0 +1,2 @@
+line one
+line two	[31mred[0m

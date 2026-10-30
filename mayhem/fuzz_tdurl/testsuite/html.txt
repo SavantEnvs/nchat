@@ -1,0 +1,1 @@
+<b>bold</b> <i>it</i> <a href="http://x.y">l</a> <code>c</code> <pre>p</pre> &amp; &lt;

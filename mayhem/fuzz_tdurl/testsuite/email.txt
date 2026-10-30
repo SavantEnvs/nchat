@@ -1,0 +1,1 @@
+foo@example.com 1:23 and 12:34:56 and 1:02:03 start

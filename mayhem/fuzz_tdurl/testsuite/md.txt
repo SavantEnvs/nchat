@@ -1,0 +1,2 @@
+*bold* _italic_ `code` ```pre
+code``` [link](http://x.y) __under__ ~strike~

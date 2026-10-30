@@ -1,0 +1,11 @@
+# .dockerignore for the commit-image build: bake in the full repo (incl. .git), drop local build output.
+build/
+out/
+*.o
+*.a
+*.so
+*.dylib
+**/__pycache__/
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,1 @@
+@alice hi @bob_1 /cmd@bot #tag1 #tag_2 $AAPL $btc
